@@ -1,0 +1,2 @@
+# lorem
+configurateur contenu
