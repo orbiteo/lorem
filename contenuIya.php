@@ -210,7 +210,7 @@
                         <div class="txt-btn">
                             <textarea placeholder="TITRE" class="comments200words" name="texte56" rows="2" cols="50"><?php if(isset($contenuTexte56)){echo $contenuTexte56;} ?></textarea>
                                 <p class="after-amount">Nombre de mots saisis <span class="wordcount">0</span> /5</p>
-                            <textarea placeholder="Rédigez un texte de 200 mots svp" class="comments200words" name="texte57" rows="10" cols="50"><?php if(isset($contenuTexte57)){echo $contenuTexte57;} ?></textarea>
+                            <textarea placeholder="Rédigez un texte de 200 mots svp" class="comments200words" name="texte76" rows="10" cols="50"><?php if(isset($contenuTexte76)){echo $contenuTexte76;} ?></textarea>
                                 <p class="after-amount">Nombre de mots saisis <span class="wordcount">0</span> /200</p>
                             </div> 
                         </div>   
